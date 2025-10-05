@@ -2,9 +2,9 @@
 
 An Elden Ring-themed todo list app for the LilyGO T5-4.7" E-Paper display that I made for my best friend who is obsessed with everything Elden Ring.
 <p align="center">
-  <img src="./images/webInterface.png"/>
-  <img src="./images/emptyLedger.png"/>
-  <img src="./images/fullLedger.png"/>
+  <img src="src/images/webInterface.png"/>
+  <img src="src/images/emptyLedger.png"/>
+  <img src="src/images/fullLedger.png"/>
 </p>
 
 ## You'll need
