@@ -1,6 +1,11 @@
 # The Tarnished's Ledger
 
 An Elden Ring-themed todo list app for the LilyGO T5-4.7" E-Paper display that I made for my best friend who is obsessed with everything Elden Ring.
+<p align="center">
+  <img src="./images/webInterface.png"/>
+  <img src="./images/emptyLedger.png"/>
+  <img src="./images/fullLedger.png"/>
+</p>
 
 ## You'll need
 The **LilyGO T5-4.7" E-Paper ESP32-S3 Board**.
@@ -10,7 +15,7 @@ LilyGO-EPD47-esp32s3 library.
 ## Installation
 
 ### 1. Install PlatformIO extension.
-### 2. Download the LilyGo EPD47 library.
+### 2. Download the LilyGo EPD47 library, I used this one:
 
 ```
 https://github.com/Xinyuan-LilyGO/LilyGo-EPD47
